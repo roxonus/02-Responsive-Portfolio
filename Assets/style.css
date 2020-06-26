@@ -1,0 +1,30 @@
+
+.navbar-nav {
+    background-color: steelblue;
+    padding: 30px;
+    margin: 30px;
+    border: 15px;
+    border-color: lawngreen;
+    border-style: inset;
+    text-align: right;
+    font-stretch: expanded;
+    font-weight: bold;
+    font-style: italic;
+    text-emphasis-color: inherit;
+    color: powderblue;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+
+.nav-link {
+    color: black;
+    display: inline-block;
+}
+
+.navbar-expand-sm {
+    display: inline-block;
+}
+

@@ -1,0 +1,8 @@
+body {
+    background-color: lightgrey;
+}
+
+.music {
+    max-width: 180px;
+    max-height: 180px;
+}
