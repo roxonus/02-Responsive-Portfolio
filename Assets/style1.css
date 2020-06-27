@@ -1,3 +1,5 @@
+/* this is the stylesheet for the contact page. adds color and positioning to the textboxes.*/
+
 body {
     background-color: lightgrey;
 }
@@ -7,4 +9,9 @@ body {
     margin-left: 60px;
     margin-right: 60px;
     padding: 75px;
+}
+
+.btn-primary {
+    margin-bottom: 200px;
+    margin-left: 135px;
 }
